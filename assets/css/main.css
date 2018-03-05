@@ -1943,7 +1943,7 @@
 	.feature-icon {
 		display: inline-block;
 		position: relative;
-		padding-bottom: 5em;
+		padding-bottom: 2.75em;
 		margin-bottom: 2.75em;
 		cursor: default;
 	}
@@ -1978,7 +1978,7 @@
 			left: 50%;
 			bottom: 0.65em;
 			width: 1px;
-			height: 4.35em;
+			height: 2.05em;
 			background: #666;
 			margin-left: -0.5px;
 		}
