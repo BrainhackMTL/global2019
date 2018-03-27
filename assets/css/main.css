@@ -56,7 +56,7 @@
 	}
 
 	th {
-	  border-bottom: 10px solid white;
+	border-bottom: 10px solid white;
 	}
 
 /* Box Model */
@@ -97,17 +97,17 @@
 	}
 
 	.map-responsive{
-	    overflow:hidden;
-	    padding-bottom:56.25%;
-	    position:relative;
-	    height:0;
+	overflow:hidden;
+	padding-bottom:56.25%;
+	position:relative;
+	height:0;
 	}
 	.map-responsive iframe{
-	    left:0;
-	    top:0;
-	    height:100%;
-	    width:100%;
-	    position:absolute;
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	position:absolute;
 	}
 
 	@media screen and (max-width: 1680px) {
@@ -1548,6 +1548,7 @@
 		.image.fit {
 			display: block;
 			width: 100%;
+			padding-left: 20pt;
 		}
 
 		.image.left {
@@ -2105,6 +2106,7 @@
 
 			.main > .content.style2 {
 				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #384955, #655361, #85505f);
+				text-align: center;
 			}
 
 			.main > .content.style3 {
@@ -2138,6 +2140,54 @@
 
 		#footer ul.icons a {
 			box-shadow: inset 0 0 0 1px #d6d6d6;
+		}
+
+/* Project pitches */
+	.projects {
+		text-align: center;
+	}
+		h2 {
+			color: #666;
+			margin: 0 0 1em 0;
+			font-weight: 100;
+			line-height: 1.5em;
+			font-size: 2em
+		}
+
+		ul {
+			padding-left: 15pt;
+		}
+
+		p {
+			padding-left: 15pt
+		}
+
+		.pitch {
+			width: 45%;
+			float: none;
+			display: inline-block;
+			position: relative;
+			background-color: #fff;
+			margin: 1em auto;
+		}
+
+		.pitch::before{
+		content:" ";
+		display:inline-block;
+		width:40px;
+		}
+
+		.pitch::after{
+		content:" ";
+		display:inline-block;
+		width:40px;
+		}
+
+		@media screen and (max-width: 736px) {
+		  .pitch {
+			Display: block;
+			Width: 100%;
+		  }
 		}
 
 /* Wide */
