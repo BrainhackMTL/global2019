@@ -59,6 +59,11 @@
 	border-bottom: 10px solid white;
 	}
 
+	.navbar {
+		margin-bottom: 0;
+		background-color: #000
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2101,21 +2106,12 @@
 			}
 
 			.main > .content.style1 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #b39c68, #a56365, #412e4c);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, linear-gradient(45deg, #b39c68, #a56365, #412e4c);
 			}
 
 			.main > .content.style2 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #384955, #655361, #85505f);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, linear-gradient(45deg, #384955, #655361, #85505f);
 				text-align: center;
-			}
-
-			.main > .content.style3 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
-			}
-
-			.main > .content.style4 {
-				padding-top: 0;
-				background: #fff;
 			}
 
 /* Footer */
