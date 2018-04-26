@@ -3,10 +3,15 @@
     "What I want to learn at Brainhack": "",
     "Talk to Me About": ""
   },
-  "Ding Yang": {
+    "Ding Yang": {
     "Where I'm from": "Canadian Neonatal Brain Platform",
     "What I want to learn at Brainhack": "Docker, Singularity, Provision",
     "Talk to Me About": "Canadian Neonatal Brain Platform, LORIS <3 CBrain, Neonatal Brain Analyses Disaster"
+  },
+  "Rolando Acosta": {
+    "Where I'm from": "Canadian Neonatal Brain Platform",
+    "What I want to learn at Brainhack": "I'm pretty interested on all stuff",
+    "Talk to Me About": "Data Mining, Software Engeeniering, Networking"
   },
     "Elizabeth DuPre": {
     "Where I'm from": "MNI",
@@ -58,4 +63,14 @@
     "What I want to learn at Brainhack": "Datalad and other",
     "Talk to Me About": "CBRAIN, containers, Ruby"
   },
+    "Tristan Glatard": {
+    "Where I'm from": "Concordia",
+    "What I want to learn at Brainhack": "DataLad",
+    "Talk to Me About": "Compute Canada, Large-scale pipeline executions"
+  },
+    "Jinnan Gong": {
+    "Where I'm from": "MNI",
+    "What I want to learn at Brainhack": "Machine Learning with neuroimaging",
+    "Talk to Me About": "Neuroimaging, Brain Network"
+  }
  }
