@@ -7,11 +7,16 @@
     "Where I'm from": "Canadian Neonatal Brain Platform",
     "What I want to learn at Brainhack": "Docker, Singularity, Provision",
     "Talk to Me About": "Canadian Neonatal Brain Platform, LORIS <3 CBrain, Neonatal Brain Analyses Disaster"
-  }
+  },
     "Elizabeth DuPre": {
     "Where I'm from": "MNI",
     "What I want to learn at Brainhack": "Vue.js",
     "Talk to Me About": "Git, Python, BIDS"
+  },
+    "Gabriel Devenyi": {
+    "Where I'm from": "Douglas",
+    "What I want to learn at Brainhack": "machine learning",
+    "Talk to Me About": "magetbrain, qbatch, ants"
   },
     "Greg Kiar": {
     "Where I'm from": "MNI",
@@ -32,5 +37,5 @@
     "Where I'm from": "Concordia University",
     "What I want to learn at Brainhack": "fmri preprocessing pipeline",
     "Talk to Me About": "Python, Reproducibility, HCP"
-    }
+  }
  }
