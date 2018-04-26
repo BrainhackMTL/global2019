@@ -3,7 +3,7 @@
     "What I want to learn at Brainhack": "",
     "Talk to Me About": ""
   },
-  "Ding Yang": {
+    "Ding Yang": {
     "Where I'm from": "Canadian Neonatal Brain Platform",
     "What I want to learn at Brainhack": "Docker, Singularity, Provision",
     "Talk to Me About": "Canadian Neonatal Brain Platform, LORIS <3 CBrain, Neonatal Brain Analyses Disaster"
@@ -52,5 +52,10 @@
     "Where I'm from": "Concordia University",
     "What I want to learn at Brainhack": "fmri preprocessing pipeline",
     "Talk to Me About": "Python, Reproducibility, HCP"
+  },
+    "Tristan Glatard": {
+    "Where I'm from": "Concordia",
+    "What I want to learn at Brainhack": "DataLad",
+    "Talk to Me About": "Compute Canada, Large-scale pipeline executions"
   }
  }
