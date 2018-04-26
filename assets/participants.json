@@ -8,9 +8,9 @@
     "What I want to learn at Brainhack": "Vue.js",
     "Talk to Me About": "Git, Python, BIDS"
   },
-    "Greg Kiar": {
-    "Where I'm from": "MNI",
-    "What I want to learn at Brainhack": "What a "brain" is",
-    "Talk to Me About": "Git, Python, BIDS, High performance computing"
-  }
+    "Jonathan Lurie": {
+      "Where I'm from": "MNI",
+      "What I want to learn at Brainhack": "Not sure yet",
+      "Talk to Me About": "Javascript, WebGL, image processing, visualization"
+    }
  }
