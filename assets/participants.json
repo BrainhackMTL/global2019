@@ -18,7 +18,11 @@
     "What I want to learn at Brainhack": "What a 'brain' is",
     "Talk to Me About": "Git, Python, BIDS, High performance computing"
   },
-
+ "Francisco Perdigon Romero": {
+    "Where I'm from": "Ecole Polytechnique Montreal",
+    "What I want to learn at Brainhack": "What a 'brain' is",
+    "Talk to Me About": "MRI, Vertebral labeling, Deep Learning, Python"
+  },
     "Samuel Guay": {
     "Where I'm from": "Hôpital du Sacré-Coeur de Montréal",
     "What I want to learn at Brainhack": "How to use Singularity/Docker",
