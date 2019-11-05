@@ -24,5 +24,5 @@ assignees: ''
 - [x] *... or two or more things you can teach*
 
 ## Need help with...
-- [x] *add one...*
+- [ ] *add one...*
 - [x] *... or two or more things that you need help with*
