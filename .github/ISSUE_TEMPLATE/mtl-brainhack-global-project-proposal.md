@@ -25,4 +25,4 @@ assignees: ''
 
 ## Need help with...
 - [ ] *add one...*
-- [x] *... or two or more things that you need help with*
+- [ ] *... or two or more things that you need help with*
